@@ -1,7 +1,7 @@
 # 흔한 찐따의 디시콘 다운로더 (DC-CON Downloader)
 
 - 흔한 찐따의 **디시콘 다운로더(DC-CON Downloader)** 입니다.
-- 별도의 깃허브 저장소는 여기를 통해 확인하실 수 있습니다.
+- 해당 프로젝트는 [흔한 찐따의 파이썬 튜토리얼](https://github.com/iam-jjintta/python-tutorial/tree/main/projects/dccon-downloader) 저장소를 통해 확인하실 수도 있습니다.
 
 ## 개요
 
