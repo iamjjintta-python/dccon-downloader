@@ -20,6 +20,7 @@
 - [sys — 시스템 특정 파라미터와 함수](https://docs.python.org/ko/3/library/sys.html)
 - [os — 기타 운영 체제 인터페이스](https://docs.python.org/ko/3/library/os.html)
 - [io — 스트림 작업을 위한 핵심 도구](https://docs.python.org/ko/3/library/io.html)
+- [re — 정규식 연산](https://docs.python.org/ko/3/library/re.html)
 - [webbrowser — 편리한 웹 브라우저 컨트롤러](https://docs.python.org/ko/3/library/webbrowser.html)
 
 ### [PyPI](https://pypi.org/) 오픈 소스 라이브러리
