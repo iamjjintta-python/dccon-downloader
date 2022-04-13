@@ -134,7 +134,7 @@ class Downloader(ttk.Frame):
             self.trv_dccon.column(col, anchor=anchor, width=150)
         else:
             self.trv_dccon.grid(row=3, column=0, columnspan=4, sticky=tk.NSEW)
-            self.sb_dccon.grid(row=3, column=4, sticky=tk.N+tk.S)
+            self.sb_dccon.grid(row=3, column=4, sticky=tk.NS)
 
 
     def bind_events(self):
