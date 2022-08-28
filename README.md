@@ -26,7 +26,7 @@
 ### [PyPI](https://pypi.org/) 오픈 소스 라이브러리
 
 - [Pillow — 광범위한 파일 형식 지원과 효율적인 내부 표현 및 강력한 이미지 처리](https://pillow.readthedocs.io/en/stable/)
-- [requests — 파이썬용 HTTP 클라이언트 인터페이스를 위한 고수준 라이브러리](https://docs.python-requests.org/en/master/)
+- [requests — 파이썬용 HTTP 클라이언트 인터페이스를 위한 고수준 라이브러리](https://requests.readthedocs.io/en/latest/)
 - [lxml — XML 및 HTML 문서의 빠른 처리를 위한 라이브러리](https://lxml.de/)
 - [PyInstaller — 파이썬 애플리케이션과 모든 종속성 패키지들을 단일 패키지로 묶어주는 라이브러리](https://pyinstaller.org/en/stable/)
 
